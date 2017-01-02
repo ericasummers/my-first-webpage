@@ -29,4 +29,4 @@ _{If anything is not working correctly, feel free to contact me.}_
 
 *{GPL}*
 
-Copyright (c) 2016 **_{Erica Wright & Zahall Mahmood}_**
+Copyright (c) 2017 **_{Erica Wright & Zahall Mahmood}_**
