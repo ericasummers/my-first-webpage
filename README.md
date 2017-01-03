@@ -1,8 +1,8 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _Website about my family, {01.02.2017}_
+#### _Website about my family, 01.02.2017_
 
-#### By _**{Erica Wright & Zahall Mahmood}**_
+#### By _**Erica Wright**_
 
 ## Description
 
@@ -19,7 +19,7 @@ _{None so far.}_
 
 ## Support and contact details
 
-_{If anything is not working correctly, feel free to contact me.}_
+_If anything is not working correctly, feel free to contact me._
 
 ## Technologies Used
 
@@ -29,4 +29,4 @@ _{If anything is not working correctly, feel free to contact me.}_
 
 *{GPL}*
 
-Copyright (c) 2017 **_{Erica Wright & Zahall Mahmood}_**
+Copyright (c) 2017 **_{Erica Wright}_**
